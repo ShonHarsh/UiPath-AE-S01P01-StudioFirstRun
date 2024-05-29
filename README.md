@@ -65,10 +65,10 @@ git clone https://github.com/ShonHarsh/UiPath-AE-S01P01-StudioFirstRun
 ### UiPath Learning Plan Projects
 
 <details>
-  <summary><h5>Automation Explorer</h5></summary>
+  <summary><h3>Automation Explorer</h3></summary>
 
 ##### S01 Explore automation development with UiPath Studio
-- S01P01-StudioFirstRun
+- S01P01-StudioFirstRun [[C#](https://github.com/ShonHarsh/UiPath-AE-S01P01-StudioFirstRun)] [[VB](https://github.com/ShonHarsh/UiPath-AE-S01P01-StudioFirstRun-VB)]
 
 ##### S02 Build your first process with Studio
 - S02P01-BuildFirstProcess
@@ -90,11 +90,10 @@ git clone https://github.com/ShonHarsh/UiPath-AE-S01P01-StudioFirstRun
 ##### S06 User Interface (UI) Automation with Modern Design in Studio
 - S06P01-BuildAndRun
 - S06P02-TableExtraction
-
 </details>
 
 <details>
-  <summary><h5>Automation Developer Associate</h5></summary>
+  <summary><h3>Automation Developer Associate</h3></summary>
 
   //Still to be developed
 
@@ -139,11 +138,10 @@ git clone https://github.com/ShonHarsh/UiPath-AE-S01P01-StudioFirstRun
 ##### S20 Project Organization in Studio
 
 ##### S21 Automation Implementation Methodology Fundamentals
-
 </details>
 
 <details>
-  <summary><h5>Automation Developer Professional</h5></summary>
+  <summary><h3>Automation Developer Professional</h3></summary>
 
 //Still to be developed
 
@@ -168,11 +166,10 @@ git clone https://github.com/ShonHarsh/UiPath-AE-S01P01-StudioFirstRun
 ##### S10 Remote Debugging with Studio
 
 ##### S11 Invoke Method and Invoke Code in Studio
-
 </details>
 
 <details>
-  <summary><h5>RPA Developer Foundation</h5></summary>
+  <summary><h3>RPA Developer Foundation</h3></summary>
 
 ##### S01 Get Started With RPA Development
 
@@ -215,5 +212,4 @@ git clone https://github.com/ShonHarsh/UiPath-AE-S01P01-StudioFirstRun
 - S06P02 RPADev-S07P02-StateMachines [[C#](https://github.com/ShonHarsh/RPADev-S07P02-StateMachines)] [[VB](https://github.com/ShonHarsh/RPADev-S07P02-StateMachines-VB)] [[Windows Legacy](https://github.com/ShonHarsh/RPADev-S07P02-StateMachines-WindowsLegacy)]
 - S06P03 RPADev-S07P03-FixMyWorkflow [[C#](https://github.com/ShonHarsh/RPADev-S07P03-FixMyWorkflow)] [[VB](https://github.com/ShonHarsh/RPADev-S07P03-FixMyWorkflow-VB)] [[Windows Legacy](https://github.com/ShonHarsh/RPADev-S07P03-FixMyWorkflow-WindowsLegacy)]
 - S06P04 RPADev-S07P04-Libraries [[C#](https://github.com/ShonHarsh/RPADev-S07P04-Libraries)] [[VB](https://github.com/ShonHarsh/RPADev-S07P04-Libraries-VB)] [[Windows Legacy](https://github.com/ShonHarsh/RPADev-S07P04-Libraries-WindowsLegacy)]
-
 </details>
