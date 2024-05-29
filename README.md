@@ -8,6 +8,15 @@ This project is the first practice in the Automation Explorer path and it is run
 
 After making a pull request or downloading the project, open the Main.xaml in UiPath Studio.  The robot can be run with the play button in the ribbon and the result can be seen in output panel.
 
+### Practice Requirements
+1. Create a UiPath Automation Cloud account.
+2. Use Orchestrator to invite users and allocate licenses.
+3. Download and install Studio.
+4. Use Studio to create a new project, add an activity to the workflow, and publish to Orchestrator.
+5. Use UiPath Assistant to run the newly published process.
+
+Note: The sample files are included in Data\Sample Data\UiPath-AE-S01P01-StudioFirstRun.zip
+
 ### Details
 
 **Course:** UiPath - Automation Explorer
@@ -20,8 +29,9 @@ After making a pull request or downloading the project, open the Main.xaml in Ui
 
 **GitHub:** https://github.com/ShonHarsh/UiPath-AE-S01P01-StudioFirstRun
 
-
 ### Sample Output
+
+![Message Box](Data/Images/UiPath-AE-S01P01-StudioFirstRun-MessageBox.png)
 
 ```sh
 05/28/2024 16:16:03 => [Debug] Debug started for file: Main
