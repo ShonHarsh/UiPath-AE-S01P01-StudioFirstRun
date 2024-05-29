@@ -2,7 +2,7 @@
 
 # S01P01 Studio First Run
 
-This project is the first practice in the Automation Explorer path and it is running a workflow in UiPath Studio.  The workflow consists of a Message Box and Log Message activities.
+This **C#** project is the first practice in the Automation Explorer path and it is running a workflow in UiPath Studio.  The workflow consists of a Message Box and Log Message activities.
 
 ### Getting Started
 
@@ -15,7 +15,7 @@ After making a pull request or downloading the project, open the Main.xaml in Ui
 4. Use Studio to create a new project, add an activity to the workflow, and publish to Orchestrator.
 5. Use UiPath Assistant to run the newly published process.
 
-Note: The sample files are included in Data\Sample Data\UiPath-AE-S01P01-StudioFirstRun.zip
+Note: The sample files are included in Data\Sample Data\UiPath-AE-S01P01-StudioFirstRun.zip and this project is in the VB language.
 
 ### Details
 
